@@ -17,4 +17,4 @@ Mathematically, the center of my Ph.D. training is in probability theory, with i
 
 My training background is, Ph.D. in OR, specialized in probability theory (New York University, United States); M.S. in mathematical sciences, specialized in probability theory (New York University, United States); M.S. in mathematical sciences, specialized in differential geometry-global analysis on manifold (Nankai University, China); B.S. in pure mathematics (Nankai University, China).
 
-If you share my research interests in probability theory, differential geometry methods, and their applications, you can reach out to me. For any questions or comments, you may drop a message to zliu@stern.nyu.edu or zl1011@stern.nyu.edu. 
+If you have similar research interests/motivation including but not limitied to probability theory, differential geometry methods, and their applications, you can reach out to me. For any questions or comments, you may drop a message to zliu@stern.nyu.edu or zl1011@stern.nyu.edu. 
