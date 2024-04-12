@@ -7,9 +7,19 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I just graduated with a Ph.D. degree in Operations Research (OR) from New York University, Stern School of Business. I graduated and got invited to Beta Gamma Sigma NYU Stern Chapter for outstanding scholastic performance upon graduation.
 
-A data-driven personal website
+I am also on the job market starting in Summer 2023.
+
+My research revolves around probability theory and differential geometry method and exploring their powerful applications into applied fields such as Operations Research, Machine Learning, Mathematical Finance, and other related aspects.
+
+The center of my Ph.D. study and research is probability theory, with an initial motivation and applications to queueing theory in OR; but it meets differential geometry at the end, both expectedly and unexpectedly. Probability theory is the theme of my research, but I am also driven to uncover the hidden interesting connections from this discipline to geometry; as well as many exciting aspects of applied research, for which my aim is to provide innovative solutions or theory for the fundamental understanding to the observed phenomenon from the applied side of research, by leveraging the tools including the general probability theory, stochastic processes, and methods of global analysis on manifolds.
+
+My training background is, Ph.D. in OR, specialized in probability theory (New York University, United States); M.S. in mathematical sciences, specialized in probability theory (New York University, United States); M.S. in mathematical sciences, specialized in differential geometry-global analysis on manifold (Nankai University, China); B.S. in pure mathematics (Nankai University, China).
+
+I am actively seeking collaborations in research from both academic and industry fields. If you share my research interests in probability theory, differential geometry methods, and their applications, you can just reach out. For any questions or comments, you may drop a message to zliu@stern.nyu.edu or zl1011@stern.nyu.edu. 
+
+A data-driven personal website 
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
