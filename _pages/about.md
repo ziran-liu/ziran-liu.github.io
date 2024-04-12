@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I just graduated with a Ph.D. degree in Operations Research (OR) from New York University, Stern School of Business, with a specialization in probability theory and stochastic processes. Upon my graduation of Ph.D., I was invited by the Office of Academic Affairs at NYU Stern to the Beta Gamma Sigma (NYU Stern Chapter) with their invitation message of "outstanding scholastic performance".
+I just graduated with a Ph.D. degree in Operations Research (OR) from New York University, Stern School of Business, with a specialization in probability theory and stochastic processes. 
 
 I am also on the job market now. 
 
