@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Ran'dom"
 title_separator          : "-"
 name                     : &name "Ziran Liu"
-description              : &description ""
+description              : &description "PhD-NYU-OR/Probability Theory"
 url                      : https://ziran-liu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ziran-liu/ziran-liu.github.io"
@@ -21,7 +21,7 @@ repository               : "ziran-liu/ziran-liu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "blackboard.png"
   name             : "Ziran Liu"
   pronouns         : # example: "He/his"  
   #bio              : "Short biography for the left-hand sidebar"
