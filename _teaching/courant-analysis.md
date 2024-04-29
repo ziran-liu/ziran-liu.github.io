@@ -4,7 +4,7 @@ collection: teaching
 type: "Course Assistant for Analysis"
 permalink: /teaching/courant-analysis
 venue: "New York University, Coourant Institute of Mathematical Sciences"
-date: 2015-01-01
+date: 2015-02-01
 location: "New York, NY"
 ---
 
