@@ -1,5 +1,5 @@
 ---
-title: "[Operations Management, OPMG-UB 1-001](https://drive.google.com/file/d/1LHO6Vhh2iGQ9uSxbCEE5boFNe1cK8g8a/view?usp=drive_link)"
+title: "Operations Management, OPMG-UB 1-001"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
