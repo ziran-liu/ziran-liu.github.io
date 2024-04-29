@@ -3,7 +3,7 @@ title: "Operations Management, OPMG-UB 1-001"
 collection: teaching
 type: "Undergraduate Core"
 permalink: /teaching/2014-spring-teaching-1
-venue: "New York University, Stern School of Business"
+venue: "New York University, Stern School of Business, Department of Technology, Operations, and Statistics."
 date: Summer 2019
 location: "New York, NY"
 ---
