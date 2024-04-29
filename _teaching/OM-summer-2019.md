@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate Core"
 permalink: /teaching/OM-summer-2019
 venue: "New York University, Stern School of Business, Department of Technology, Operations, and Statistics."
-date: Summer 2019
+date: 2019-06-01
 location: "New York, NY"
 ---
 
