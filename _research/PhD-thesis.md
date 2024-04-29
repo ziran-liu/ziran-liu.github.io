@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /research/PhD-thesis
 venue: "University 1, Department"
-date: 2024-09-25
+date: 2023-09-25
 location: "New York, NY"
 ---
 
