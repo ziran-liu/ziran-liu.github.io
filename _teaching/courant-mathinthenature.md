@@ -4,7 +4,7 @@ collection: teaching
 type: "Recitation"
 permalink: /teaching/courant-mathinthenature
 venue: "New York University, Courant Institute of Mathematical Sciences"
-date: Spring 2016
+date: 2016-02-01
 location: "New York, NY"
 ---
 
