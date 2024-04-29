@@ -24,10 +24,10 @@ author:
   avatar           : "Henry and Blackboard.png"
   name             : "Ziran Liu"
   pronouns         : # example: "He/his"  
-  #bio              : "Short biography for the left-hand sidebar"
+  bio              : "PhD-NYU-OR/Probability Theory"
   location         : "New York, NY & Shanghai, CN"
   employer         : "New York University"
-  url              : # URL
+  #url              :  URL
   email            : "zl1011@stern.nyu.edu" 
 
   # Academic websites
