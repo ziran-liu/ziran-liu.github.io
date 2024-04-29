@@ -1,5 +1,5 @@
 ---
-title: "Operations Management, OPMG"
+title: "Operations Management, OPMG-UB 1-001"
 collection: teaching
 type: "Undergraduate Core"
 permalink: /teaching/2014-spring-teaching-1
