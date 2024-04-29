@@ -1,14 +1,15 @@
 ---
-title: "Teaching experience 2"
+title: "Math Patterns in the Nature"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Recitation"
+permalink: /teaching/courant-mathinthenature
+venue: "New York University, Courant Institute of Mathematical Sciences"
+date: Spring 2016
+location: "New York, NY"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This was the recitation part of the course “Mathematics for Economics Undergrads”. You will attend the recitation sessions and lead students to solve in-class exercises. This is an undergraduate math course covering combinatorics, probability, and so on.
+
 
 Heading 1
 ======
