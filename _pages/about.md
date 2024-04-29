@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I just graduated with a Ph.D. degree in Operations Research (OR) from New York University, Stern School of Business, with a specialization in probability theory and stochastic processes. I am grateful that I had Prof. [Josh Reed](https://pages.stern.nyu.edu/~jreed/) and Prof. [Peter Lakner](https://pages.stern.nyu.edu/~plakner/) as my Ph.D. advisor at NYU Stern and Prof. [Henry McKean](https://en.wikipedia.org/wiki/Henry_McKean) as my M.S. advisor at NYU Courant Institute of Mathematical  Sciences.
+I just graduated with a Ph.D. degree in Operations Research (OR) from New York University, Stern School of Business, with a specialization in probability theory and stochastic processes. I am grateful that I had Prof. [Josh Reed](https://pages.stern.nyu.edu/~jreed/) and Prof. [Peter Lakner](https://pages.stern.nyu.edu/~plakner/) as my Ph.D. advisors at NYU Stern and Prof. [Henry McKean](https://en.wikipedia.org/wiki/Henry_McKean) as my M.S. advisor at NYU Courant Institute of Mathematical  Sciences.
 
 I am also on the job market. 
 
