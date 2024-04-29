@@ -11,7 +11,7 @@ I just graduated with a Ph.D. degree in Operations Research (OR) from New York U
 
 I am also on the job market. 
 
-My Ph.D. research was motivated by queueing theory in Operations Research, but mathematically it is probability theory/stochastic processes and is related to differential geometry (reflected Brownian motion and computatiomn of eta-invariant for the Dirac operator on spin manifold). From an applied perspective, my Ph.D. research applies to Operations Research, Machine Learning/Deep Learning. 
+My Ph.D. research was motivated by queueing theory in Operations Research, but mathematically it is probability theory/stochastic processes and is related to differential geometry (reflected Brownian motion and computation of eta-invariant for the Dirac operator on spin manifold). From an applied perspective, my Ph.D. research applies to Operations Research, Machine Learning/Deep Learning. 
 
 Mathematically, my Ph.D. training is in probability theory, with its applications in Operations Research (OR); with courses taken on both the track for Ph.D. in probability at NYU Courant and the track for Ph.D. in OR at NYU Stern. Probability theory goes through my research interests, but I am also driven to uncover the hidden connections from the probability theory to other disciplines; as well as the mathematical principles hidden behind many exciting reserach in other fields from the applied side, for which I aim to provide solutions or theory on the fundamental level to understand the observed phenomenon in the research of applied sciences, by leveraging the tools including the (broad) probability theory, stochastic processes, and methods of global analysis on manifolds.
 
