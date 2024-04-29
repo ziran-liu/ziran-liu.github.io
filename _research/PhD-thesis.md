@@ -1,6 +1,6 @@
 ---
 title: "PhD Thesis Research"
-collection: research
+collection: teaching
 type: "Undergraduate course"
 permalink: /research/PhD-thesis
 venue: "University 1, Department"
