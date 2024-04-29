@@ -1,11 +1,11 @@
 ---
 title: "PhD Thesis Research"
-collection: research
+collection: teaching
 type: "Undergraduate course"
-permalink: /research/PhD thesis
+permalink: /research/PhD-thesis
 venue: "University 1, Department"
 date: 2024-09-25
-location: "City, Country"
+location: "New York, NY"
 ---
 
 An intriguing but classical question in probability theory and Operations Research (OR) is the "heavy-traffic" limit process (usually a diffusion process) of some featured queueing processes (eg. a birth-death process), also known as the diffusion approximation in literature. Mathematically, it is to study the continuous limiting process taking limit in a "right" sense of some discrete-stated processes. It can provide insight into (the global, meaning extremely long-time) behavior of a queueing process, by studying its (functional) limit in a "right" sense (i.e., there can be multiple ways of taking limit in a suitable probabilistic or even deterministic sense). 
