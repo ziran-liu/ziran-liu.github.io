@@ -15,6 +15,22 @@
       color: #333;
     }
 
+    .nav {
+      text-align: right;
+      margin-bottom: 2rem;
+    }
+
+    .nav a {
+      margin-left: 1.5rem;
+      text-decoration: none;
+      color: #444;
+      font-weight: 500;
+    }
+
+    .nav a:hover {
+      text-decoration: underline;
+    }
+
     .container {
       display: flex;
       justify-content: center;
@@ -99,6 +115,14 @@
 </head>
 <body>
 
+<div class="nav">
+  <a href="index.html">home</a>
+  <a href="courses.html">courses</a>
+  <a href="publications.html">publications</a>
+  <a href="cv.html">cv</a>
+  <a href="research-log.html">research log</a>
+</div>
+
 <div class="container">
   <!-- Left Column: Image + Contact -->
   <div class="left-column">
@@ -125,53 +149,48 @@
 
     <div class="section">
       <h3>Current Appointments</h3>
-      <p><strong>Postdoctoral Researcher, 12/19/2024-current</strong><br>
+      <p><strong>Postdoctoral Researcher, 12/19/2024–current</strong><br>
       <em>Fudan University, Research Institute of Intelligent Complex Systems</em><br>
       – Conducting research on complex systems and stochastic processes, with applications to optimization and intelligent systems.<br>
       – Collaborating with interdisciplinary teams on mathematical models for system analysis.</p>
 
-      <p><strong>Postdoctoral Researcher, 12/19/2024-current</strong><br>
+      <p><strong>Postdoctoral Researcher, 12/19/2024–current</strong><br>
       <em>Shanghai Institute for Mathematics and Interdisciplinary Sciences (SIMIS)</em><br>
       – Leading research initiatives on mathematical modeling, queueing theory, and stochastic analysis.<br>
       – Developing solutions to large-scale optimization problems for interdisciplinary projects, and the theory of reflected diffusions and its applications.</p>
     </div>
 
-      <div class="section">
-        <h3>Selected Projects</h3>
+    <div class="section">
+      <h3>Projects</h3>
 
-        <p>
-          <strong>VERA Model Framework</strong> <em>(In development)</em><br>
-          <span style="font-size: 0.9em; color: #666;">
-            A variational simulation platform integrating PDEs, operator theory, and applied probability. Focuses on high-dimensional modeling, inverse problems, and boundary uncertainty.
-          </span><br>
-          <a href="#">[Manuscript in prep]</a>
-        </p>
+      <p><strong>VERA Model Framework</strong> <em>(In development)</em><br>
+        <span style="font-size: 0.9em; color: #666;">
+          A variational simulation platform integrating PDEs, operator theory, and applied probability. Focuses on high-dimensional modeling, inverse problems, and boundary uncertainty.
+        </span><br>
+        <a href="#">[Manuscript in prep]</a>
+      </p>
 
-        <p>
-          <strong>Monte Carlo for RBM in Wedges</strong> <em>(In development)</em><br>
-          <span style="font-size: 0.9em; color: #666;">
-            Simulation of reflected Brownian motion with drift using elliptic curve-based pseudorandom generators. Addresses oblique reflection regimes in wedge domains via the extended Skorokhod map.
-          </span><br>
-          <a href="#">[Manuscript in prep]</a>
-        </p>
+      <p><strong>Monte Carlo for RBM in Wedges</strong> <em>(In development)</em><br>
+        <span style="font-size: 0.9em; color: #666;">
+          Simulation of reflected Brownian motion with drift using elliptic curve-based pseudorandom generators. Addresses oblique reflection regimes in wedge domains via the extended Skorokhod map.
+        </span><br>
+        <a href="#">[Manuscript in prep]</a>
+      </p>
 
-        <p>
-          <strong>Symplectic Geometry & Learning Theory</strong> <em>(In development)</em><br>
-          <span style="font-size: 0.9em; color: #666;">
-            Generalizing stochastic gradient dynamics to symplectic manifolds using LR-dependent SDEs, spectral theory, and contact Hamiltonian flows. Links learning rates to geometric convergence gaps.
-          </span><br>
-          <a href="#">[Manuscript in prep]</a>
-        </p>
+      <p><strong>Symplectic Geometry & Learning Theory</strong> <em>(In development)</em><br>
+        <span style="font-size: 0.9em; color: #666;">
+          Generalizing stochastic gradient dynamics to symplectic manifolds using LR-dependent SDEs, spectral theory, and contact Hamiltonian flows. Links learning rates to geometric convergence gaps.
+        </span><br>
+        <a href="#">[Manuscript in prep]</a>
+      </p>
 
-        <p>
-          <strong>Discrete Conformality & Gaussian Curvature</strong> <em>(Submitted)</em><br>
-          <span style="font-size: 0.9em; color: #666;">
-            Developed a numerical scheme to solve the prescribed Gaussian curvature problem on high-genus Riemannian surfaces via discrete conformal geometry. The method constructs polyhedral metrics and triangulations satisfying curvature constraints, rigorously proving approximation accuracy using discrete elliptic estimates. This contributes to a deeper computational understanding of geometric flows and conformal structures in negative curvature settings, with theoretical implications for mesh geometry and curvature prescription. Proves convergence using discrete elliptic estimates in negative curvature settings.
-          </span><br>
-          <a href="/pdfs/discrete_curvature_preprint.pdf">[Preprint]</a>
-        </p>
-
-      </div>
+      <p><strong>Discrete Conformality & Gaussian Curvature</strong> <em>(Submitted)</em><br>
+        <span style="font-size: 0.9em; color: #666;">
+          Developed a numerical scheme to solve the prescribed Gaussian curvature problem on high-genus Riemannian surfaces via discrete conformal geometry. Constructs triangulated polyhedral metrics satisfying curvature constraints. Proves convergence using discrete elliptic estimates in negative curvature settings.
+        </span><br>
+        <a href="/pdfs/discrete_curvature_preprint.pdf">[Preprint]</a>
+      </p>
+    </div>
 
     <div class="section">
       <p><a href="#">View full list of papers & proposals</a> | <a href="mailto:zliu@simis.cn">Contact Ziran</a></p>
