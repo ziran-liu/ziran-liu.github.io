@@ -14,38 +14,84 @@
       background-color: #ffffff;
       color: #333;
     }
+
     .container {
+      display: flex;
+      justify-content: center;
       max-width: 1000px;
       margin: auto;
+      gap: 50px;
     }
+
+    .left-column {
+      width: 220px;
+      flex-shrink: 0;
+    }
+
+    .left-column img {
+      width: 100%;
+      height: auto;
+      margin-bottom: 1rem;
+    }
+
+    .contact-box {
+      font-size: 0.9rem;
+      color: #555;
+    }
+
+    .contact-box strong {
+      display: block;
+      margin-top: 0.8rem;
+    }
+
+    .contact-box a {
+      color: #0645AD;
+      text-decoration: none;
+    }
+
+    .contact-box a:hover {
+      text-decoration: underline;
+    }
+
+    .right-column {
+      flex-grow: 1;
+    }
+
     h1 {
       font-size: 2.5rem;
       margin-bottom: 0.3rem;
     }
+
     h3 {
       font-size: 1.2rem;
-      margin-top: 0.5rem;
       font-weight: 500;
       color: #444;
+      margin-top: 0.5rem;
     }
+
     .quote {
       font-style: italic;
-      margin: 1rem 0;
+      margin: 1rem 0 2rem;
       color: #666;
     }
+
     .section {
       margin-top: 2rem;
     }
+
     ul {
       padding-left: 1.25rem;
     }
+
     ul li {
       margin-bottom: 0.5rem;
     }
+
     a {
       color: #0645AD;
       text-decoration: none;
     }
+
     a:hover {
       text-decoration: underline;
     }
@@ -54,53 +100,54 @@
 <body>
 
 <div class="container">
-  <div style="display: flex; align-items: flex-start; gap: 40px; justify-content: center; margin-bottom: 40px;">
-    <div style="text-align: left;">
-      <img src="/images/ziran_homepage_photo.jpg" alt="Ziran Liu" style="width: 200px; height: auto; margin-top: 0.5rem;" />
-      <div style="font-size: 0.9rem; margin-top: 1rem; color: #555;">
-        <strong>Address:</strong><br>
-        P.O.: 200433<br>
-        Office: Room 1220<br>
-        Block A, International Innovation Plaza<br>
-        No. 657 Songhu Road<br>
-        Yangpu District, Shanghai, China<br><br>
-        <strong>Email:</strong><br>
-        <a href="mailto:zliu@simis.cn">zliu@simis.cn</a><br>
-        <a href="mailto:zliu@nyu.edu">zliu@nyu.edu</a>
-      </div>
-    </div>
+  <!-- Left Column: Image + Contact -->
+  <div class="left-column">
+    <img src="/images/ziran_homepage_photo.jpg" alt="Ziran Liu" />
+    <div class="contact-box">
+      <strong>Address:</strong>
+      P.O.: 200433<br>
+      Office: Room 1220<br>
+      Block A, International Innovation Plaza<br>
+      No. 657 Songhu Road<br>
+      Yangpu District, Shanghai, China
 
-    <div style="max-width: 650px; padding-top: 0.5rem;">
-      <h1>Ziran Liu</h1>
-      <h3>Mathematics | Stochastic Systems, Decision Science | Interdisciplinary Sciences</h3>
-      <p class="quote">“Thoughts without content are empty; intuitions without concepts are blind.” — Immanuel Kant</p>
+      <strong>Email:</strong>
+      <a href="mailto:zliu@simis.cn">zliu@simis.cn</a><br>
+      <a href="mailto:zliu@nyu.edu">zliu@nyu.edu</a>
     </div>
   </div>
 
-  <div class="section">
-    <h3>Current Appointments</h3>
-    <p><strong>Postdoctoral Researcher</strong><br>
-    <em>Fudan University, Research Institute of Intelligent Complex Systems</em><br>
-    – Conducting research on complex systems and stochastic processes, with applications to optimization and intelligent systems.<br>
-    – Collaborating with interdisciplinary teams on mathematical models for system analysis.</p>
+  <!-- Right Column: Main Content -->
+  <div class="right-column">
+    <h1>Ziran Liu</h1>
+    <h3>Mathematics | Stochastic Systems, Decision Science | Interdisciplinary Sciences</h3>
+    <p class="quote">“Thoughts without content are empty; intuitions without concepts are blind.” — Immanuel Kant</p>
 
-    <p><strong>Postdoctoral Researcher</strong><br>
-    <em>Shanghai Institute for Mathematics and Interdisciplinary Sciences (SIMIS)</em><br>
-    – Leading research initiatives on mathematical modeling, queueing theory, and stochastic analysis.<br>
-    – Developing solutions to large-scale optimization problems for interdisciplinary projects.</p>
-  </div>
+    <div class="section">
+      <h3>Current Appointments</h3>
+      <p><strong>Postdoctoral Researcher</strong><br>
+      <em>Fudan University, Research Institute of Intelligent Complex Systems</em><br>
+      – Conducting research on complex systems and stochastic processes, with applications to optimization and intelligent systems.<br>
+      – Collaborating with interdisciplinary teams on mathematical models for system analysis.</p>
 
-  <div class="section">
-    <h3>Selected Projects</h3>
-    <ul>
-      <li><strong>VERA Model Framework</strong> — Variational simulation platform integrating PDE, operator theory, and applied probability.</li>
-      <li><strong>Monte Carlo for RBM in Wedges</strong> — New pseudorandomness-based simulator for reflected Brownian motion.</li>
-      <li><strong>Symplectic Geometry & Learning Theory</strong> — Generalizing stochastic gradient dynamics using differential geometry.</li>
-    </ul>
-  </div>
+      <p><strong>Postdoctoral Researcher</strong><br>
+      <em>Shanghai Institute for Mathematics and Interdisciplinary Sciences (SIMIS)</em><br>
+      – Leading research initiatives on mathematical modeling, queueing theory, and stochastic analysis.<br>
+      – Developing solutions to large-scale optimization problems for interdisciplinary projects.</p>
+    </div>
 
-  <div class="section">
-    <p><a href="#">View full list of papers & proposals</a> | <a href="mailto:zliu@simis.cn">Contact Ziran</a></p>
+    <div class="section">
+      <h3>Selected Projects</h3>
+      <ul>
+        <li><strong>VERA Model Framework</strong> — Variational simulation platform integrating PDE, operator theory, and applied probability.</li>
+        <li><strong>Monte Carlo for RBM in Wedges</strong> — New pseudorandomness-based simulator for reflected Brownian motion.</li>
+        <li><strong>Symplectic Geometry & Learning Theory</strong> — Generalizing stochastic gradient dynamics using differential geometry.</li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <p><a href="#">View full list of papers & proposals</a> | <a href="mailto:zliu@simis.cn">Contact Ziran</a></p>
+    </div>
   </div>
 </div>
 
